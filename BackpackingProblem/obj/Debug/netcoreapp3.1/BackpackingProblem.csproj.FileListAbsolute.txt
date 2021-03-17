@@ -1,0 +1,15 @@
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\bin\Debug\netcoreapp3.1\BackpackingProblem.exe
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\bin\Debug\netcoreapp3.1\BackpackingProblem.deps.json
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\bin\Debug\netcoreapp3.1\BackpackingProblem.runtimeconfig.json
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\bin\Debug\netcoreapp3.1\BackpackingProblem.runtimeconfig.dev.json
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\bin\Debug\netcoreapp3.1\BackpackingProblem.dll
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\bin\Debug\netcoreapp3.1\BackpackingProblem.pdb
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.csprojAssemblyReference.cache
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.Form1.resources
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.csproj.GenerateResource.cache
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.AssemblyInfoInputs.cache
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.AssemblyInfo.cs
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.csproj.CoreCompileInputs.cache
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.dll
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.pdb
+D:\Piotr\MVS\c#\Programy\BackpackingProblem\BackpackingProblem\obj\Debug\netcoreapp3.1\BackpackingProblem.genruntimeconfig.cache
